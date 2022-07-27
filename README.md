@@ -2,7 +2,7 @@
 Simple Way To Auto Farm Gold And Very Fast
 
 ** Preview **
-https://cdn.discordapp.com/attachments/999559058845606009/1001794821205274694/unknown.png
+https://cdn.discordapp.com/attachments/999559058845606009/1001796547526283264/unknown.png
 
 **🚀 100 Stars = Send All Money + Sellable Items to Main Acount  **
 

@@ -1,10 +1,6 @@
 # Dark-Memer-Auto-Farm
 Simple Way To Auto Farm Gold And Very Fast
 
-[![ Profile views](https://gpvc.arturio.dev/8zj)](https://gpvc.arturio.dev/8zj)
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/c9/a9/fa/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" height="175px"/></a>
-
-
 ** Preview **
 https://cdn.discordapp.com/attachments/999559058845606009/1001796547526283264/unknown.png
 

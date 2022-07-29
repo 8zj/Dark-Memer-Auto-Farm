@@ -17,13 +17,6 @@ https://cdn.discordapp.com/attachments/999559058845606009/1001796547526283264/un
 
 ** Don't Use To Hack/Break Tos **
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/8zj/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=8zj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/8zj/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8zj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Please Note This User Dose Not Break Any Tos
-
-
-<br/>
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&size=22&lines=I'm Pick Owner Of This Bot + Join us Today For Cheap Followers"/>
+</h2>
